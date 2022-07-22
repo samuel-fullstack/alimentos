@@ -1,6 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Source Code Pro' ;
+    font-weight: bold;
 }
 
 header{
@@ -53,6 +55,9 @@ main{
     justify-content: center;
     align-items: center;
     background-color: azure;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
     
 }
 img{
